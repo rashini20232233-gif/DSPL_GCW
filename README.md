@@ -1,4 +1,4 @@
-# Machine learning models for hotel revenue prediction
+# Hotel Booking Revenue Optimization using Machine Learning
 
 **Overview**
 
